@@ -30,12 +30,15 @@ nath signing out :)
 	6. Breadboard
 
 	\section*{Circuit Diagram:}
+ ****************************************************  This is the part where you insert your circuit diagram .. You can use my pic but the directory will be diffrerent *******************************************
     \begin{figure}[ht]
         \centering
         \includegraphics[width=0.6\linewidth]{Captur22e.jpg}
         \caption{Circuit Diagram to verify superposition theorem}
         \label{fig:enter-label}
     \end{figure}
+
+ ****************************************************  I did my table in ms word and took a ss xD *******************************************    
     \begin{figure}[ht]
         \centering
         \includegraphics[width=1\linewidth]{logo.jpg}
